@@ -25,9 +25,9 @@ Main features include:
 
 ##  **Demo**
 
-![Simulator Screenshot - iPhone 16 - 2025-05-30 at 00 47 19](https://github.com/user-attachments/assets/1ee6f3fa-25d1-40fc-a163-1dc42eed6aa1) 
+![Simulator Screenshot - iPhone 16 - 2025-05-30 at 00 47 19](https://github.com/user-attachments/assets/ab3d1fc5-ac02-4c69-b47b-4a74731569d2)
+![Simulator Screen Recording - iPhone 16 - 2025-05-30 at 00 16 24](https://github.com/user-attachments/assets/9764c59b-be4c-4111-ad77-45b44198e948)
 
-![Simulator Screen Recording - iPhone 16 - 2025-05-30 at 00 16 24](https://github.com/user-attachments/assets/805e8dd2-b983-40f1-988e-7007098b3cf9)
 
 ##  **Focus Areas**
 - Used async/await to handle network calls and image loading.
